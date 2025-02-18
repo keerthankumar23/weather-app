@@ -8,7 +8,7 @@ A simple Weather App that lets users check real-time weather by entering a locat
 - Built with HTML, CSS, and JavaScript
 
 ## Live Demo
-🔗 [View the Weather App]()
+🔗 [View the Weather App](https://keerthankumar23.github.io/weather-app/)
 
 ## How to Use?
 1. Enter any city name
